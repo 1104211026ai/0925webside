@@ -1,4 +1,4 @@
-## Welcome to A Jenny Hi Ya Pages
+## Welcome to AJennyHiYa Pages
 
 You can use the [editor on GitHub](https://github.com/1104211026ai/0925webside/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
